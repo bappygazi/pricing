@@ -1055,14 +1055,14 @@ section {
   font-size: 20px;
   color: #ffffff;
   font-weight: 700;
-  margin-bottom: 25px;
+  margin-bottom: 20px;
 }
 
 #pricing .enterprise .customize-text {
   font-weight: 400;
   color: #ffffff;
   font-size: 16px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   line-height: 24px;
 }
 
@@ -1083,7 +1083,7 @@ section {
   color: #ffffff;
   font-size: 16px;
   font-weight: 400;
-  margin-bottom: 60px;
+  margin-bottom: 77px;
   line-height: 24px;
 }
 
@@ -2563,7 +2563,8 @@ section {
   #pricing .pricing-content .price-table .price-table-plan .plan-table-header .price-btn .btn {
     height: 28px;
     width: 90px;
-    font-size: 12px;
+    font-size: 11px;
+    line-height: 28px;
   }
   #pricing .pricing-content .price-table .price-table-plan .plan-table-header .plan-table-header-text h4 {
     font-size: 14px;
@@ -2603,7 +2604,7 @@ section {
   }
   #pricing .enterprise .quize p {
     font-size: 13px;
-    margin-bottom: 40px;
+    margin-bottom: 53px;
   }
   #pricing .enterprise h5 {
     font-size: 12px;
@@ -2752,7 +2753,7 @@ section {
     margin-bottom: 65px;
   }
   #pricing .enterprise .quize p {
-    margin-bottom: 50px;
+    margin-bottom: 63px;
   }
 }
 
