@@ -873,15 +873,24 @@ section {
       font-weight: 400;
       color: #ffffff;
       font-size: 16px;
-      margin-bottom: 50px;
+      margin-bottom: 30px;
       line-height: 24px;
     }
-    h4 {
-      color: #ffffff;
-      font-size: 14px;
-      font-weight: 700;
-      margin-bottom: 70px;
+    .contact-btn {
+      a {
+        height: 35px;
+        color: #5337c8;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 35px;
+        padding: 0 20px;
+        margin-bottom: 70px;
+        border-radius: 15px;
+        display: inline-block;
+        background-color: #ffffff;
+      }
     }
+
     .quize {
       p {
         color: #ffffff;
@@ -2345,14 +2354,20 @@ section {
   }
   #pricing .enterprise .quize p {
     font-size: 13px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
   }
   #pricing .enterprise h5 {
     font-size: 12px;
   }
   #pricing .enterprise p {
     font-size: 12px;
+    margin-bottom: 55px;
   }
+  #pricing .enterprise .contact-btn a {
+    font-size: 11px;
+    margin-bottom: 30px;
+  }
+
   .col-md {
     flex: 1 0 0%;
   }
@@ -2477,6 +2492,9 @@ section {
   }
   #pricing .pricing-content .price-table .price-table-plan ul {
     margin-bottom: 65px;
+  }
+  #pricing .enterprise .quize p {
+    margin-bottom: 50px;
   }
 }
 
